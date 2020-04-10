@@ -26,11 +26,11 @@
 
 **DAY 4**
 
- Complete the style for the info window 
+ Complete the style for the info window DONE
 
 - Open the info window marker on store selection in stores list DONE
  
 - Allow user to search Zip code DONE
 
-- Add a beautiful transition on hover of an individual store
+- Add a beautiful transition on hover of an individual store DONE
 
